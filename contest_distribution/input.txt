@@ -18522,3 +18522,1255 @@ Jan/04/2012
 00:00UTC+8	01:00	
 Final standings
  x649
+Codeforces Beta Round 99 (Div. 1)
+Enter »
+Virtual participation »
+Endagorion
+Dec/24/2011
+21:00UTC+8	02:00	
+Final standings
+ x448
+Codeforces Beta Round 99 (Div. 2)
+Enter »
+Virtual participation »
+Endagorion
+Dec/24/2011
+21:00UTC+8	02:00	
+Final standings
+ x1427
+Codeforces Beta Round 98 (Div. 2)
+Enter »
+Virtual participation »
+Edvard
+MikeMirzayanov
+Dec/16/2011
+15:00UTC+8	02:00	
+Final standings
+ x1324
+Codeforces Beta Round 97 (Div. 1)
+Enter »
+Virtual participation »
+KADR
+Dec/10/2011
+00:05UTC+8	02:00	
+Final standings
+ x460
+Codeforces Beta Round 97 (Div. 2)
+Enter »
+Virtual participation »
+KADR
+Dec/10/2011
+00:05UTC+8	02:00	
+Final standings
+ x1753
+Codeforces Beta Round 96 (Div. 1)
+Enter »
+Virtual participation »
+MikeMirzayanov
+Nickolas
+Dec/04/2011
+00:00UTC+8	02:00	
+Final standings
+ x475
+Codeforces Beta Round 96 (Div. 2)
+Enter »
+Virtual participation »
+MikeMirzayanov
+Nickolas
+Dec/04/2011
+00:00UTC+8	02:00	
+Final standings
+ x1698
+Codeforces Testing Round 3
+Enter »
+Virtual participation »
+MikeMirzayanov
+Dec/03/2011
+00:00UTC+8	01:00	
+Final standings
+ x923
+Codeforces Beta Round 95 (Div. 2)
+Enter »
+Virtual participation »
+MikeMirzayanov
+Nov/26/2011
+00:00UTC+8	02:00	
+Final standings
+ x2031
+Unknown Language Round 4
+Enter »
+Virtual participation »
+Nickolas
+Nov/21/2011
+00:00UTC+8	03:00	
+Final standings
+ x830
+Codeforces Beta Round 94 (Div. 1 Only)
+Enter »
+Virtual participation »
+Sammarize
+Nov/15/2011
+15:10UTC+8	02:00	
+Final standings
+ x358
+Codeforces Beta Round 94 (Div. 2 Only)
+Enter »
+Virtual participation »
+Sammarize
+Nov/15/2011
+15:10UTC+8	02:00	
+Final standings
+ x1088
+Codeforces Beta Round 93 (Div. 1 Only)
+Enter »
+Virtual participation »
+Ripatti
+Nov/10/2011
+02:00UTC+8	02:00	
+Final standings
+ x419
+Codeforces Beta Round 93 (Div. 2 Only)
+Enter »
+Virtual participation »
+Ripatti
+Nov/10/2011
+02:00UTC+8	02:00	
+Final standings
+ x1704
+Codeforces Beta Round 92 (Div. 1 Only)
+Enter »
+Virtual participation »
+aropan
+Nov/04/2011
+00:10UTC+8	02:00	
+Final standings
+ x490
+Codeforces Beta Round 92 (Div. 2 Only)
+Enter »
+Virtual participation »
+aropan
+Nov/04/2011
+00:10UTC+8	02:00	
+Final standings
+ x1458
+Codeforces Testing Round 2
+Enter »
+Virtual participation »
+MikeMirzayanov
+NALP
+Oct/29/2011
+22:00UTC+8	02:00	
+Final standings
+ x806
+Codeforces Beta Round 91 (Div. 1 Only)
+Enter »
+Virtual participation »
+witua
+Oct/28/2011
+00:00UTC+8	02:00	
+Final standings
+ x520
+Codeforces Beta Round 91 (Div. 2 Only)
+Enter »
+Virtual participation »
+witua
+Oct/28/2011
+00:00UTC+8	02:00	
+Final standings
+ x1456
+School Regional Team Contest, Saratov, 2011
+Enter »
+Virtual participation »
+Edvard
+Fefer_Ivan
+Gerald
+HolkinPV
+MikeMirzayanov
+NALP
+Nerevar
+Polichka
+RAD
+Oct/18/2011
+15:30UTC+8	05:00	
+Final standings
+ x1175
+Codeforces Beta Round 90
+Enter »
+Virtual participation »
+Kenny_HORROR
+Serega
+aiMR
+Oct/15/2011
+00:00UTC+8	02:00	
+Final standings
+ x2010
+Codeforces Beta Round 89 (Div. 2)
+Enter »
+Virtual participation »
+Alexander
+Oct/08/2011
+00:00UTC+8	02:00	
+Final standings
+ x1720
+Codeforces Beta Round 88
+Enter »
+Virtual participation »
+Gerald
+Sep/24/2011
+00:00UTC+8	02:00	
+Final standings
+ x1961
+Codeforces Beta Round 87 (Div. 1 Only)
+Enter »
+Virtual participation »
+dolphinigle
+Sep/16/2011
+00:00UTC+8	02:00	
+Final standings
+ x515
+Codeforces Beta Round 87 (Div. 2 Only)
+Enter »
+Virtual participation »
+dolphinigle
+Sep/16/2011
+00:00UTC+8	02:00	
+Final standings
+ x1430
+Codeforces Beta Round 86 (Div. 1 Only)
+Enter »
+Virtual participation »
+Kenny_HORROR
+NALP
+_jte_
+Sep/09/2011
+00:00UTC+8	02:00	
+Final standings
+ x456
+Codeforces Beta Round 86 (Div. 2 Only)
+Enter »
+Virtual participation »
+Kenny_HORROR
+NALP
+_jte_
+Sep/09/2011
+00:00UTC+8	02:00	
+Final standings
+ x1337
+Codeforces Beta Round 85 (Div. 1 Only)
+Enter »
+Virtual participation »
+Seyaua
+sdya
+Sep/03/2011
+21:00UTC+8	02:00	
+Final standings
+ x485
+Codeforces Beta Round 85 (Div. 2 Only)
+Enter »
+Virtual participation »
+Seyaua
+sdya
+Sep/03/2011
+21:00UTC+8	02:00	
+Final standings
+ x1273
+Codeforces Beta Round 84 (Div. 1 Only)
+Enter »
+Virtual participation »
+witua
+Aug/30/2011
+01:00UTC+8	02:00	
+Final standings
+ x495
+Codeforces Beta Round 84 (Div. 2 Only)
+Enter »
+Virtual participation »
+witua
+Aug/30/2011
+01:00UTC+8	02:00	
+Final standings
+ x1164
+Codeforces Beta Round 83 (Div. 1 Only)
+Enter »
+Virtual participation »
+Atef
+Dima
+Aug/24/2011
+00:00UTC+8	02:00	
+Final standings
+ x439
+Codeforces Beta Round 83 (Div. 2 Only)
+Enter »
+Virtual participation »
+Atef
+Dima
+Aug/24/2011
+00:00UTC+8	02:00	
+Final standings
+ x1179
+Codeforces Beta Round 82 (Div. 2)
+Enter »
+Virtual participation »
+Ripatti
+Aug/20/2011
+00:00UTC+8	02:00	
+Final standings
+ x1340
+Codeforces Beta Round 81
+Enter »
+Virtual participation »
+Ripatti
+Aug/14/2011
+00:00UTC+8	02:00	
+Final standings
+ x1500
+Codeforces Beta Round 80 (Div. 1 Only)
+Enter »
+Virtual participation »
+Alex_KPR
+Aug/07/2011
+20:00UTC+8	02:00	
+Final standings
+ x357
+Codeforces Beta Round 80 (Div. 2 Only)
+Enter »
+Virtual participation »
+Alex_KPR
+Aug/07/2011
+20:00UTC+8	02:00	
+Final standings
+ x1093
+Codeforces Beta Round 79 (Div. 1 Only)
+Enter »
+Virtual participation »
+Sammarize
+Aug/04/2011
+02:00UTC+8	02:00	
+Final standings
+ x335
+Codeforces Beta Round 79 (Div. 2 Only)
+Enter »
+Virtual participation »
+Sammarize
+Aug/04/2011
+02:00UTC+8	02:00	
+Final standings
+ x1015
+Unknown Language Round 3
+Enter »
+Virtual participation »
+A.K.Goharshady
+MikeMirzayanov
+amirali1374
+kiana
+soroush419
+Jul/30/2011
+15:00UTC+8	03:00	
+Final standings
+ x805
+Codeforces Beta Round 78 (Div. 1 Only)
+Enter »
+Virtual participation »
+goryinyich
+Jul/23/2011
+00:00UTC+8	02:00	
+Final standings
+ x394
+Codeforces Beta Round 78 (Div. 2 Only)
+Enter »
+Virtual participation »
+goryinyich
+Jul/23/2011
+00:00UTC+8	02:00	
+Final standings
+ x1219
+Yandex.Algorithm 2011: Finals
+Enter »
+Virtual participation »
+Ignat
+Ripatti
+frost_nova
+ilyakor
+ivan.popelyshev
+stan
+Jul/15/2011
+21:00UTC+8	02:00	
+Final standings
+ x759
+Codeforces Beta Round 77 (Div. 1 Only)
+Enter »
+Virtual participation »
+witua
+Jul/09/2011
+00:00UTC+8	02:00	
+Final standings
+ x429
+Codeforces Beta Round 77 (Div. 2 Only)
+Enter »
+Virtual participation »
+witua
+Jul/09/2011
+00:00UTC+8	02:00	
+Final standings
+ x1121
+Codeforces Beta Round 76 (Div. 1 Only)
+Enter »
+Virtual participation »
+MikeMirzayanov
+dalex
+Jul/01/2011
+00:00UTC+8	02:00	
+Final standings
+ x417
+Codeforces Beta Round 76 (Div. 2 Only)
+Enter »
+Virtual participation »
+MikeMirzayanov
+dalex
+Jul/01/2011
+00:00UTC+8	02:00	
+Final standings
+ x1070
+Codeforces Beta Round 75 (Div. 1 Only)
+Enter »
+Virtual participation »
+Connector
+Jun/21/2011
+00:00UTC+8	02:00	
+Final standings
+ x409
+Codeforces Beta Round 75 (Div. 2 Only)
+Enter »
+Virtual participation »
+Connector
+Jun/21/2011
+00:00UTC+8	02:00	
+Final standings
+ x937
+Codeforces Beta Round 74 (Div. 1 Only)
+Enter »
+Virtual participation »
+Ripatti
+Jun/17/2011
+00:00UTC+8	02:00	
+Final standings
+ x430
+Codeforces Beta Round 74 (Div. 2 Only)
+Enter »
+Virtual participation »
+Ripatti
+Jun/17/2011
+00:00UTC+8	02:00	
+Final standings
+ x896
+Codeforces Beta Round 73 (Div. 1 Only)
+Enter »
+Virtual participation »
+PavelKunyavskiy
+Zlobober
+Jun/08/2011
+00:00UTC+8	02:00	
+Final standings
+ x444
+Codeforces Beta Round 73 (Div. 2 Only)
+Enter »
+Virtual participation »
+PavelKunyavskiy
+Zlobober
+Jun/08/2011
+00:00UTC+8	02:00	
+Final standings
+ x946
+Yandex.Algorithm 2011: Round 2
+Enter »
+Virtual participation »
+Misery
+yaro
+May/23/2011
+00:10UTC+8	02:00	
+Final standings
+ x590
+Yandex.Algorithm 2011: Round 1
+Enter »
+Virtual participation »
+Ignat
+frost_nova
+goldvitaly
+stan
+May/21/2011
+00:00UTC+8	02:00	
+Final standings
+ x1168
+Codeforces Beta Round 72 (Div. 1 Only)
+Enter »
+Virtual participation »
+AleX
+HolkinPV
+NALP
+May/14/2011
+00:10UTC+8	02:00	
+Final standings
+ x473
+Codeforces Beta Round 72 (Div. 2 Only)
+Enter »
+Virtual participation »
+AleX
+HolkinPV
+NALP
+May/14/2011
+00:10UTC+8	02:00	
+Final standings
+ x1042
+Yandex.Algorithm 2011: Qualification 2
+Enter »
+Virtual participation »
+MikeMirzayanov
+NALP
+RAD
+May/07/2011
+00:00UTC+8	02:00	
+Final standings
+ x2197
+Yandex.Algorithm Open 2011: Qualification 1
+Enter »
+Virtual participation »
+MikeMirzayanov
+May/04/2011
+14:00UTC+8	02:00	
+Final standings
+ x1628
+Codeforces Beta Round 71
+Enter »
+Virtual participation »
+ir5
+rng_58
+May/01/2011
+00:00UTC+8	02:00	
+Final standings
+ x1183
+Codeforces Beta Round 70 (Div. 2)
+Enter »
+Virtual participation »
+Lepetrandr
+Ripatti
+Apr/28/2011
+00:00UTC+8	02:00	
+Final standings
+ x979
+Codeforces Beta Round 69 (Div. 1 Only)
+Enter »
+Virtual participation »
+Alex_KPR
+I_love_Nastya
+Marishka
+Apr/20/2011
+00:15UTC+8	02:00	
+Final standings
+ x458
+Codeforces Beta Round 69 (Div. 2 Only)
+Enter »
+Virtual participation »
+Alex_KPR
+I_love_Nastya
+Marishka
+Apr/20/2011
+00:15UTC+8	02:00	
+Final standings
+ x974
+Codeforces Beta Round 68
+Enter »
+Virtual participation »
+Ripatti
+Apr/16/2011
+00:00UTC+8	02:00	
+Final standings
+ x1111
+Codeforces Beta Round 67 (Div. 2)
+Enter »
+Virtual participation »
+ahmed_aly
+Apr/14/2011
+00:00UTC+8	02:00	
+Final standings
+ x871
+All-Ukrainian School Olympiad in Informatics
+Enter »
+Virtual participation »
+KADR
+Shtrix
+Apr/12/2011
+21:00UTC+8	05:00	
+Final standings
+ x651
+Codeforces Beta Round 66
+Enter »
+Virtual participation »
+ashmelev
+undef
+Apr/10/2011
+17:00UTC+8	02:30	
+Final standings
+ x1035
+Codeforces Beta Round 65 (Div. 2)
+Enter »
+Virtual participation »
+Ripatti
+Mar/30/2011
+00:00UTC+8	02:00	
+Final standings
+ x1103
+Codeforces Beta Round 64
+Enter »
+Virtual participation »
+Connector
+Mar/27/2011
+00:00UTC+8	02:00	
+Final standings
+ x1226
+Codeforces Beta Round 63 (Div. 2)
+Enter »
+Virtual participation »
+map
+Mar/23/2011
+00:00UTC+8	02:00	
+Final standings
+ x1110
+Unknown Language Round 2
+Enter »
+Virtual participation »
+A.K.Goharshady
+Alfa1
+LGM
+MikeMirzayanov
+Zahra
+mR.ilchi
+sajjad_gh
+Mar/21/2011
+00:10UTC+8	03:00	
+Final standings
+ x533
+Codeforces Beta Round 62
+Enter »
+Virtual participation »
+Shtrix
+maksay
+Mar/19/2011
+00:00UTC+8	02:00	
+Final standings
+ x1129
+Manthan 2011
+Enter »
+Virtual participation »
+AC9
+Tachyon
+gurpreet_09
+sachi1325
+shammerw0w
+Mar/14/2011
+00:30UTC+8	03:00	
+Final standings
+ x1405
+Codeforces Beta Round 61 (Div. 2)
+Enter »
+Virtual participation »
+Seyaua
+sdya
+Mar/08/2011
+00:00UTC+8	02:00	
+Final standings
+ x1063
+Codeforces Beta Round 60
+Enter »
+Virtual participation »
+natalia
+Mar/06/2011
+00:00UTC+8	02:00	
+Final standings
+ x1265
+Codeforces Beta Round 59 (Div. 2)
+Enter »
+Virtual participation »
+Ripatti
+Mar/01/2011
+00:00UTC+8	02:00	
+Final standings
+ x932
+Codeforces Beta Round 58
+Enter »
+Virtual participation »
+Alex_KPR
+I_love_Nastya
+Feb/26/2011
+00:00UTC+8	02:00	
+Final standings
+ x1261
+Codeforces Beta Round 57 (Div. 2)
+Enter »
+Virtual participation »
+A.K.Goharshady
+Alfa1
+LGM
+Feb/23/2011
+00:00UTC+8	02:00	
+Final standings
+ x859
+Unknown Language Round 1
+Enter »
+Virtual participation »
+MikeMirzayanov
+RAD
+Feb/22/2011
+00:00UTC+8	02:30	
+Final standings
+ x681
+Codeforces Beta Round 56
+Enter »
+Virtual participation »
+Aksenov239
+Feb/20/2011
+00:00UTC+8	02:00	
+Final standings
+ x1193
+Codeforces Beta Round 55 (Div. 2)
+Enter »
+Virtual participation »
+MikeMirzayanov
+Feb/12/2011
+00:00UTC+8	02:00	
+Final standings
+Solved: 1 out of 5
+ x771
+Codeforces Beta Round 54 (Div. 2)
+Enter »
+Virtual participation »
+RAD
+Feb/01/2011
+00:00UTC+8	02:00	
+Final standings
+ x798
+Codeforces Beta Round 53
+Enter »
+Virtual participation »
+nevidomy
+Jan/26/2011
+00:00UTC+8	02:00	
+Final standings
+ x926
+Codeforces Beta Round 52 (Div. 2)
+Enter »
+Virtual participation »
+MikeMirzayanov
+RAD
+e-maxx
+Jan/22/2011
+00:10UTC+8	02:00	
+Final standings
+ x697
+Codeforces Beta Round 51
+Enter »
+Virtual participation »
+Misery
+Rei
+yaro
+Jan/14/2011
+16:00UTC+8	02:00	
+Final standings
+ x651
+Codeforces Beta Round 50
+Enter »
+Virtual participation »
+e-maxx
+Jan/11/2011
+16:15UTC+8	02:00	
+Final standings
+ x716
+Codeforces Beta Round 49 (Div. 2)
+Enter »
+Virtual participation »
+Fefer_Ivan
+MikeMirzayanov
+NALP
+RAD
+Jan/07/2011
+00:00UTC+8	02:00	
+Final standings
+ x533
+Codeforces Testing Round 1
+Enter »
+Virtual participation »
+MikeMirzayanov
+RAD
+Jan/05/2011
+01:00UTC+8	01:00	
+Final standings
+ x349
+Codeforces Beta Round 48
+Enter »
+Virtual participation »
+MikeMirzayanov
+Dec/29/2010
+00:00UTC+8	02:30	
+Final standings
+ x859
+Codeforces Beta Round 47
+Enter »
+Virtual participation »
+stgatilov
+Dec/21/2010
+00:20UTC+8	02:00	
+Final standings
+ x938
+Codeforces Beta Round 46 (Div. 2)
+Enter »
+Virtual participation »
+RAD
+Dec/18/2010
+00:00UTC+8	02:00	
+Final standings
+ x699
+School Personal Contest #3 (Winter Computer School 2010/11) - Codeforces Beta Round 45 (ACM-ICPC Rules)
+Enter »
+Virtual participation »
+Nerevar
+natalia
+Dec/12/2010
+16:00UTC+8	03:00	
+Final standings
+ x650
+Codeforces Beta Round 44 (Div. 2)
+Enter »
+Virtual participation »
+RAD
+Dec/08/2010
+00:00UTC+8	02:00	
+Final standings
+ x706
+School Personal Contest #2 (Winter Computer School 2010/11) - Codeforces Beta Round 43 (ACM-ICPC Rules)
+Enter »
+Virtual participation »
+Nerevar
+natalia
+Dec/05/2010
+16:00UTC+8	03:00	
+Final standings
+ x939
+Codeforces Beta Round 42 (Div. 2)
+Enter »
+Virtual participation »
+RAD
+Nov/30/2010
+00:00UTC+8	02:00	
+Final standings
+ x695
+Codeforces Beta Round 41
+Enter »
+Virtual participation »
+cerealguy
+yaro
+Nov/19/2010
+00:00UTC+8	02:00	
+Final standings
+ x774
+School Team Contest 3 (Winter Computer School 2010/11)
+Enter »
+Virtual participation »
+Fefer_Ivan
+MikeMirzayanov
+RAD
+Nov/13/2010
+19:00UTC+8	05:00	
+Final standings
+ x407
+Codeforces Beta Round 40 (Div. 2)
+Enter »
+Virtual participation »
+MikeMirzayanov
+Nov/09/2010
+00:00UTC+8	02:00	
+Final standings
+ x643
+School Team Contest 2 (Winter Computer School 2010/11)
+Enter »
+Virtual participation »
+MikeMirzayanov
+Nerevar
+Polichka
+natalia
+Nov/06/2010
+19:00UTC+8	05:00	
+Final standings
+ x456
+Codeforces Beta Round 39
+Enter »
+Virtual participation »
+Seyaua
+sdya
+Nov/06/2010
+00:00UTC+8	02:00	
+Final standings
+ x826
+School Personal Contest #1 (Winter Computer School 2010/11) - Codeforces Beta Round 38 (ACM-ICPC Rules)
+Enter »
+Virtual participation »
+NALP
+Oct/30/2010
+21:00UTC+8	04:00	
+Final standings
+ x788
+Codeforces Beta Round 37
+Enter »
+Virtual participation »
+vepifanov
+Oct/26/2010
+00:00UTC+8	02:00	
+Final standings
+ x904
+School Team Contest 1 (Winter Computer School 2010/11)
+Enter »
+Virtual participation »
+natalia
+Oct/24/2010
+16:10UTC+8	05:00	
+Final standings
+ x338
+Codeforces Beta Round 36
+Enter »
+Virtual participation »
+Edvard
+Fefer_Ivan
+Gerald
+HolkinPV
+Igor_Kudryashov
+NALP
+Nerevar
+Polichka
+RAD
+natalia
+Oct/19/2010
+19:00UTC+8	02:00	
+Final standings
+ x613
+Codeforces Beta Round 35 (Div. 2)
+Enter »
+Virtual participation »
+Edvard
+Fefer_Ivan
+Gerald
+HolkinPV
+Igor_Kudryashov
+NALP
+Nerevar
+Polichka
+RAD
+natalia
+Oct/19/2010
+16:00UTC+8	02:00	
+Final standings
+ x478
+Codeforces Beta Round 34 (Div. 2)
+Enter »
+Virtual participation »
+RAD
+e-maxx
+Oct/11/2010
+22:00UTC+8	02:00	
+Final standings
+ x678
+Codeforces Beta Round 33 (Codeforces format)
+Enter »
+Virtual participation »
+Edvard
+HolkinPV
+Igor_Kudryashov
+Oct/08/2010
+00:00UTC+8	02:00	
+Final standings
+ x853
+Codeforces Beta Round 32 (Div. 2, Codeforces format)
+Enter »
+Virtual participation »
+MikeMirzayanov
+Nerevar
+RAD
+e-maxx
+Oct/02/2010
+16:00UTC+8	02:00	
+Final standings
+ x379
+Codeforces Beta Round 31 (Div. 2, Codeforces format)
+Enter »
+Virtual participation »
+MikeMirzayanov
+Nerevar
+RAD
+e-maxx
+Sep/28/2010
+00:00UTC+8	02:00	
+Final standings
+ x584
+Codeforces Beta Round 30 (Codeforces format)
+Enter »
+Virtual participation »
+NALP
+RAD
+e-maxx
+Sep/25/2010
+00:00UTC+8	02:00	
+Final standings
+ x927
+Codeforces Beta Round 29 (Div. 2, Codeforces format)
+Enter »
+Virtual participation »
+RAD
+Sep/21/2010
+00:00UTC+8	02:00	
+Final standings
+ x558
+Codeforces Beta Round 28 (Codeforces format)
+Enter »
+Virtual participation »
+Fefer_Ivan
+Gerald
+Polichka
+Sep/18/2010
+00:00UTC+8	02:00	
+Final standings
+ x1078
+Codeforces Beta Round 27 (Codeforces format, Div. 2)
+Enter »
+Virtual participation »
+MikeMirzayanov
+RAD
+Sep/11/2010
+00:00UTC+8	02:00	
+Final standings
+ x651
+Codeforces Beta Round 26 (Codeforces format)
+Enter »
+Virtual participation »
+Nedy88
+RAD
+Aug/17/2010
+00:00UTC+8	02:00	
+Final standings
+ x769
+Codeforces Beta Round 25 (Div. 2 Only)
+Enter »
+Virtual participation »
+MikeMirzayanov
+RAD
+Aug/03/2010
+00:00UTC+8	02:00	
+Final standings
+ x691
+Codeforces Beta Round 24
+Enter »
+Virtual participation »
+Nedy88
+RAD
+Jul/26/2010
+22:00UTC+8	02:00	
+Final standings
+ x919
+Codeforces Beta Round 23
+Enter »
+Virtual participation »
+Zhukov_Dmitry
+Jul/10/2010
+00:00UTC+8	02:00	
+Final standings
+ x765
+Codeforces Beta Round 22 (Div. 2 Only)
+Enter »
+Virtual participation »
+RAD
+Jun/30/2010
+00:00UTC+8	02:00	
+Final standings
+ x636
+Codeforces Alpha Round 21 (Codeforces format)
+Enter »
+Virtual participation »
+MikeMirzayanov
+Jun/28/2010
+22:05UTC+8	02:00	
+Final standings
+ x313
+Codeforces Beta Round 19
+Enter »
+Virtual participation »
+NALP
+RAD
+Jun/25/2010
+00:00UTC+8	02:00	
+Final standings
+Solved: 1 out of 5
+ x931
+Codeforces Alpha Round 20 (Codeforces format)
+Enter »
+Virtual participation »
+MikeMirzayanov
+dlevshunov
+Jun/19/2010
+00:30UTC+8	01:30	
+Final standings
+ x60
+Codeforces Beta Round 18 (Div. 2 Only)
+Enter »
+Virtual participation »
+Edvard
+MikeMirzayanov
+RAD
+Jun/17/2010
+00:00UTC+8	02:00	
+Final standings
+ x620
+Codeforces Beta Round 17
+Enter »
+Virtual participation »
+brainail
+Jun/11/2010
+00:00UTC+8	02:00	
+Final standings
+ x865
+Codeforces Beta Round 16 (Div. 2 Only)
+Enter »
+Virtual participation »
+Edvard
+RAD
+Jun/03/2010
+22:00UTC+8	02:00	
+Final standings
+ x615
+Codeforces Beta Round 15
+Enter »
+Virtual participation »
+Shtrix
+May/30/2010
+00:00UTC+8	02:15	
+Final standings
+ x902
+Codeforces Beta Round 14 (Div. 2)
+Enter »
+Virtual participation »
+Edvard
+Igor_Kudryashov
+MikeMirzayanov
+Nerevar
+May/20/2010
+00:30UTC+8	02:00	
+Final standings
+ x645
+Codeforces Beta Round 13
+Enter »
+Virtual participation »
+KADR
+May/06/2010
+23:00UTC+8	02:00	
+Final standings
+ x895
+Codeforces Beta Round 12 (Div 2 Only)
+Enter »
+Virtual participation »
+Igor_Kudryashov
+Nerevar
+Apr/29/2010
+20:00UTC+8	02:00	
+Final standings
+ x477
+Codeforces Beta Round 11
+Enter »
+Virtual participation »
+MikeMirzayanov
+meret
+Apr/27/2010
+00:00UTC+8	02:00	
+Final standings
+ x749
+Codeforces Beta Round 10
+Enter »
+Virtual participation »
+Nerevar
+Apr/16/2010
+00:45UTC+8	02:00	
+Final standings
+ x775
+Codeforces Beta Round 9 (Div. 2 Only)
+Enter »
+Virtual participation »
+Alex_KPR
+Apr/11/2010
+20:00UTC+8	02:00	
+Final standings
+ x439
+Codeforces Beta Round 8
+Enter »
+Virtual participation »
+Fefer_Ivan
+Gerald
+Polichka
+Apr/09/2010
+00:45UTC+8	02:00	
+Final standings
+ x746
+Codeforces Beta Round 7
+Enter »
+Virtual participation »
+MikeMirzayanov
+RAD
+e-maxx
+Apr/02/2010
+00:45UTC+8	02:00	
+Final standings
+ x722
+Codeforces Beta Round 6 (Div. 2 Only)
+Enter »
+Virtual participation »
+MikeMirzayanov
+Nerevar
+Mar/27/2010
+15:00UTC+8	02:00	
+Final standings
+ x430
+Codeforces Beta Round 5
+Enter »
+Virtual participation »
+DmitryKlenov
+MikeMirzayanov
+Mar/21/2010
+00:00UTC+8	02:00	
+Final standings
+ x551
+Codeforces Beta Round 4 (Div. 2 Only)
+Enter »
+Virtual participation »
+Igor_Kudryashov
+MikeMirzayanov
+Mar/12/2010
+20:00UTC+8	02:00	
+Final standings
+ x404
+Codeforces Beta Round 3
+Enter »
+Virtual participation »
+MikeMirzayanov
+Mar/07/2010
+20:00UTC+8	02:00	
+Final standings
+ x617
+Codeforces Beta Round 2
+Enter »
+Virtual participation »
+MikeMirzayanov
+Feb/26/2010
+01:00UTC+8	02:00	
+Final standings
+ x269
+Codeforces Beta Round 1
+Enter »
+Virtual participation »
+MikeMirzayanov
+Feb/19/2010
+20:00UTC+8	02:00	
+Final standings
+ x175
